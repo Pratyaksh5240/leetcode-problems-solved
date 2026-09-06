@@ -108,3 +108,23 @@ Please help to further improve this awesome plugin! We would appreciate your sup
 
 Don't forget to star this repository for further development of new features. If you want a particular feature, simply [request](https://github.com/raphaelheinz/LeetHub-3.0/labels/feature) for it!
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
+<!---LeetCode Topics End-->
