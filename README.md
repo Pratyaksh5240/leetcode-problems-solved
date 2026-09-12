@@ -115,6 +115,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
+| [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
+| [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -184,6 +186,7 @@ Don't forget to star this repository for further development of new features. If
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
 ## Hungarian Algorithm
 | Problem Name | Difficulty |
@@ -193,4 +196,16 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 <!---LeetCode Topics End-->
