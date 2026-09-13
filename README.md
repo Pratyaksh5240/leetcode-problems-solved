@@ -138,6 +138,7 @@ Don't forget to star this repository for further development of new features. If
 | [0417-pacific-atlantic-water-flow](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0729-my-calendar-i/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
+| [1035-uncrossed-lines](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1035-uncrossed-lines/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -174,6 +175,7 @@ Don't forget to star this repository for further development of new features. If
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1035-uncrossed-lines](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1035-uncrossed-lines/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -208,4 +210,8 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1035-uncrossed-lines](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1035-uncrossed-lines/) | Medium |
 <!---LeetCode Topics End-->
