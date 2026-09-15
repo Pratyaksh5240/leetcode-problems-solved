@@ -136,6 +136,7 @@ Don't forget to star this repository for further development of new features. If
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0729-my-calendar-i/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1035-uncrossed-lines/) | Medium |
@@ -157,6 +158,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@ Don't forget to star this repository for further development of new features. If
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -223,4 +226,12 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0437-path-sum-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
