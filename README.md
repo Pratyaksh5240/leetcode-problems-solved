@@ -141,6 +141,7 @@ Don't forget to star this repository for further development of new features. If
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1035-uncrossed-lines/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +231,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
