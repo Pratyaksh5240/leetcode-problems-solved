@@ -247,4 +247,5 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1114-print-in-order/) | Easy |
+| [1195-fizz-buzz-multithreaded](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
 <!---LeetCode Topics End-->
