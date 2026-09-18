@@ -243,4 +243,8 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0735-asteroid-collision/) | Medium |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1114-print-in-order](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1114-print-in-order/) | Easy |
 <!---LeetCode Topics End-->
