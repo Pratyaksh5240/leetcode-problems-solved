@@ -145,6 +145,7 @@ Don't forget to star this repository for further development of new features. If
 | [1035-uncrossed-lines](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1035-uncrossed-lines/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ Don't forget to star this repository for further development of new features. If
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
+| [2733-neither-minimum-nor-maximum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Hungarian Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
