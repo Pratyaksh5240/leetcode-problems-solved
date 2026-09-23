@@ -114,6 +114,7 @@ Don't forget to star this repository for further development of new features. If
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
 | [0709-to-lower-case](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0709-to-lower-case/) | Easy |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
@@ -121,6 +122,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0394-decode-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0735-asteroid-collision/) | Medium |
 ## Greedy
@@ -253,4 +255,8 @@ Don't forget to star this repository for further development of new features. If
 | [1114-print-in-order](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1114-print-in-order/) | Easy |
 | [1116-print-zero-even-odd](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1116-print-zero-even-odd/) | Medium |
 | [1195-fizz-buzz-multithreaded](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
