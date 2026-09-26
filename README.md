@@ -114,6 +114,7 @@ Don't forget to star this repository for further development of new features. If
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
 | [0709-to-lower-case](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0709-to-lower-case/) | Easy |
@@ -200,6 +201,7 @@ Don't forget to star this repository for further development of new features. If
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -214,6 +216,7 @@ Don't forget to star this repository for further development of new features. If
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 ## Heap (Priority Queue)
