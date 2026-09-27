@@ -114,6 +114,7 @@ Don't forget to star this repository for further development of new features. If
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0394-decode-string/) | Medium |
@@ -269,5 +270,6 @@ Don't forget to star this repository for further development of new features. If
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
