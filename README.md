@@ -121,6 +121,7 @@ Don't forget to star this repository for further development of new features. If
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
 | [0709-to-lower-case](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0709-to-lower-case/) | Easy |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
+| [1446-consecutive-characters](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1446-consecutive-characters/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
