@@ -119,6 +119,7 @@ Don't forget to star this repository for further development of new features. If
 | [0344-reverse-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0709-to-lower-case/) | Easy |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1446-consecutive-characters/) | Easy |
@@ -133,6 +134,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0402-remove-k-digits/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
 ## Monotonic Stack
@@ -273,4 +275,5 @@ Don't forget to star this repository for further development of new features. If
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
