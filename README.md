@@ -114,6 +114,7 @@ Don't forget to star this repository for further development of new features. If
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0344-reverse-string/) | Easy |
@@ -145,6 +146,7 @@ Don't forget to star this repository for further development of new features. If
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -283,4 +285,8 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
