@@ -150,6 +150,7 @@ Don't forget to star this repository for further development of new features. If
 | [0014-longest-common-prefix](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0283-move-zeroes](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -280,6 +281,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Queue
