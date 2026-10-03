@@ -152,6 +152,7 @@ Don't forget to star this repository for further development of new features. If
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0283-move-zeroes](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0729-my-calendar-i/) | Medium |
@@ -183,6 +184,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0729-my-calendar-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -214,6 +216,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -229,6 +232,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0767-reorganize-string/) | Medium |
@@ -283,6 +287,7 @@ Don't forget to star this repository for further development of new features. If
 | [0125-valid-palindrome](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
