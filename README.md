@@ -114,6 +114,7 @@ Don't forget to star this repository for further development of new features. If
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0125-valid-palindrome/) | Easy |
@@ -234,6 +235,7 @@ Don't forget to star this repository for further development of new features. If
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -302,4 +304,8 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0014-longest-common-prefix/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
