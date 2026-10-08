@@ -159,6 +159,7 @@ Don't forget to star this repository for further development of new features. If
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0729-my-calendar-i/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0735-asteroid-collision/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1035-uncrossed-lines/) | Medium |
@@ -178,11 +179,13 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,4 +315,8 @@ Don't forget to star this repository for further development of new features. If
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 <!---LeetCode Topics End-->
