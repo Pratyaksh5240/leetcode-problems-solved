@@ -159,6 +159,7 @@ Don't forget to star this repository for further development of new features. If
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0729-my-calendar-i/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0735-asteroid-collision/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1029-two-city-scheduling/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1035-uncrossed-lines/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -189,6 +190,7 @@ Don't forget to star this repository for further development of new features. If
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0729-my-calendar-i/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +270,7 @@ Don't forget to star this repository for further development of new features. If
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -308,4 +311,5 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
