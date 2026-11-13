@@ -150,6 +150,7 @@ Don't forget to star this repository for further development of new features. If
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0035-search-insert-position/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0283-move-zeroes](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -190,6 +191,7 @@ Don't forget to star this repository for further development of new features. If
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/0729-my-calendar-i/) | Medium |
