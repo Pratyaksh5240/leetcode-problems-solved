@@ -291,6 +291,7 @@ Don't forget to star this repository for further development of new features. If
 | [1114-print-in-order](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1114-print-in-order/) | Easy |
 | [1115-print-foobar-alternately](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1115-print-foobar-alternately/) | Medium |
 | [1116-print-zero-even-odd](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1116-print-zero-even-odd/) | Medium |
+| [1117-building-h2o](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1117-building-h2o/) | Medium |
 | [1195-fizz-buzz-multithreaded](https://github.com/Pratyaksh5240/leetcode-problems-solved/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
